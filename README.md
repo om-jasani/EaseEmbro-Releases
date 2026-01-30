@@ -6,7 +6,7 @@
 
 ### Complete Embroidery Business Management System
 
-[![Version](https://img.shields.io/badge/version-1.1.3-blue.svg)](https://github.com/om-jasani/EaseEmbro-Releases/releases)
+[![Version](https://img.shields.io/badge/version-1.1.8-blue.svg)](https://github.com/om-jasani/EaseEmbro-Releases/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/om-jasani/EaseEmbro-Releases)
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE.txt)
 
