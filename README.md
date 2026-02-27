@@ -7,7 +7,7 @@
 ### Complete Embroidery Business Management System
 
 [![Version](https://img.shields.io/badge/version-1.1.10-blue.svg)](https://github.com/om-jasani/EaseEmbro-Releases/releases)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/om-jasani/EaseEmbro-Releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightyellow.svg)](https://github.com/om-jasani/EaseEmbro-Releases)
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE.txt)
 
 **EaseEmbro** is a comprehensive desktop application designed to digitalize and automate embroidery business operations. It replaces manual paper ledger calculations with an intelligent digital system for tracking production, managing employees, calculating salaries, and generating detailed reports.
