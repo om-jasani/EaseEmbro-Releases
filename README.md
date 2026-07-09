@@ -14,9 +14,11 @@
 
 [Download Latest Version](https://github.com/om-jasani/EaseEmbro-Releases/releases/latest) • [Features](#-features) • [Installation](#-installation) • [Support](#-support)
 
-## 📱[EaseEmbro Mobile](https://play.google.com/store/apps/details?id=com.sampurnalabs.easeembro)
-
 </div>
+
+# 📱[EaseEmbro Mobile](https://play.google.com/store/apps/details?id=com.sampurnalabs.easeembro)
+
+**EaseEmbro Mobile** is a factory floor production data entry app to automate the production logging for employees on factory floors.
 
 ---
 
