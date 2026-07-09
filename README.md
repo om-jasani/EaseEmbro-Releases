@@ -6,7 +6,7 @@
 
 ### Complete Embroidery Business Management System
 
-[![Version](https://img.shields.io/badge/version-1.1.14-blue.svg)](https://github.com/om-jasani/EaseEmbro-Releases/releases)
+[![Version](https://img.shields.io/badge/version-1.1.15-blue.svg)](https://github.com/om-jasani/EaseEmbro-Releases/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-lightyellow.svg)](https://github.com/om-jasani/EaseEmbro-Releases)
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE.txt)
 
@@ -95,7 +95,7 @@ EaseEmbro uses a hardware-bound licensing system. When you first run the applica
 ## 📞 Support
 
 For issues, questions, or feature requests:
-- **Email**: aumjasani27@gmail.com
+- **Email**: support@sampurnalabs.tech
 - **Issues**: [Report an Issue](https://github.com/om-jasani/EaseEmbro-Releases/issues)
 
 ---
@@ -105,7 +105,7 @@ For issues, questions, or feature requests:
 EaseEmbro is proprietary software.
 
 ```
-Copyright © 2024-2025 Om Jasani. All rights reserved.
+Copyright © 2025-2027 Sampurna Labs. All rights reserved.
 
 This software is proprietary and confidential.
 Unauthorized copying, distribution, or use is strictly prohibited.
