@@ -1,4 +1,4 @@
-# EaseEmbro
+# [EaseEmbro](https://sampurnalabs.tech/EaseEmbro)
 
 <div align="center">
 
@@ -13,6 +13,8 @@
 **EaseEmbro** is a comprehensive desktop application designed to digitalize and automate embroidery business operations. It replaces manual paper ledger calculations with an intelligent digital system for tracking production, managing employees, calculating salaries, and generating detailed reports.
 
 [Download Latest Version](https://github.com/om-jasani/EaseEmbro-Releases/releases/latest) • [Features](#-features) • [Installation](#-installation) • [Support](#-support)
+
+## 📱[EaseEmbro Mobile](https://play.google.com/store/apps/details?id=com.sampurnalabs.easeembro)
 
 </div>
 
